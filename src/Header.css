@@ -2,6 +2,7 @@
   position: sticky;
   top: 0;
   z-index: 999;
+  background-color: white;
   display: flex;
   justify-content: space-evenly;
   border-bottom: 0.1px solid lightgrey;
@@ -20,7 +21,7 @@
   margin-right: 10px;
 }
 
-.header_search {
+.header__search {
   padding: 10px;
   display: flex;
   align-items: center;
