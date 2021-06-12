@@ -2,7 +2,7 @@ LINK TO SITE : https://linked-in-b93dd.web.app
 
 https://imgur.com/a/bx2tCxy
 
-<img src="https://imgur.com/a/bx2tCxy" alt="image">
+![linked-photo](https://user-images.githubusercontent.com/73038209/121783873-7a833080-cbb1-11eb-9bf4-15b52c11d06a.png)
 
 ## Available Scripts
 
