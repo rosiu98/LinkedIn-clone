@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+LINK TO SITE : https://linked-in-b93dd.web.app
+
+https://imgur.com/a/bx2tCxy
+
+<img src="https://imgur.com/a/bx2tCxy" alt="image">
 
 ## Available Scripts
 
